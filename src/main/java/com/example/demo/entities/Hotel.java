@@ -13,8 +13,6 @@ import jakarta.persistence.OneToMany;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 
-@NoArgsConstructor 
-@AllArgsConstructor
 @Entity
 public class Hotel {
 

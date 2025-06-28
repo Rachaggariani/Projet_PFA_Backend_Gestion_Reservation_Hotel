@@ -11,8 +11,7 @@ import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
-@AllArgsConstructor
-@NoArgsConstructor
+
 @Entity
 public class Chambre {
 		@Id
